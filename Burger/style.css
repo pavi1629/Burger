@@ -1,0 +1,116 @@
+#img img:hover{
+    transform: scale(1.04);
+}
+.good h4{
+    text-align: left;
+    border-style: dashed;
+    width: 5in;
+    height: 0.5in;
+  }
+  .cl h1{
+    text-shadow: 5px 5px 10px white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 500%;
+  }
+ .cl h2{ 
+    text-shadow: 5px 5px 10px white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;}
+    .video{
+      background-color: white;
+      margin-left: 100px;
+      margin-right: 10px;
+      display: block;
+      border: 20px solid yellow;
+      border-radius: 40px;
+           
+  
+}
+.a h1{
+  text-align:center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
+  -webkit-text-fill-color: brown;
+}
+.a p{
+  text-align:center;
+ }
+
+.items{
+  display: grid;
+  grid-template-columns:repeat(3,1fr);
+  padding: 30px 20px;
+  grid-column-gap: 20px;
+  
+}
+.item img{
+  width:3in;
+  height: 3in;
+  object-fit: cover;
+  cursor:pointer;
+  }
+  .item img:hover{
+      transform: scale(1.04);
+  }
+  .item h3{
+      padding: 5px;
+      text-align:center;
+  }
+  .b p{
+      text-align:center;
+  }
+  .item button{
+      padding:5px 30px;
+      border:none;
+      outline:none;
+      background-color:red;
+      color:white;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      cursor:pointer;
+      border-radius:4px;
+      display:block;
+      margin: 0 auto;
+        }
+        .item button:hoever{
+          transform:scale(1.04);
+        }
+        
+.e h1{
+   
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
+  -webkit-text-fill-color: brown;
+}
+.e h4{
+
+  font-family: calibri;
+  -webkit-text-fill-color: brown;
+}
+
+
+
+.reservation h4{
+  text-align: center;
+  -webkit-text-fill-color: brown;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+ 
+}
+.reservation h1{
+  text-align: center;
+  -webkit-text-fill-color: brown;
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+}
+
+  .table{
+   
+        padding-top: 30px;
+        float:center;
+        text-align: center;
+        padding:30px;
+        border-spacing: 2in;
+        padding-left: 0in;
+    }
+ 
+  
